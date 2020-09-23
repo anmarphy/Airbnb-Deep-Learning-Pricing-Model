@@ -3,7 +3,7 @@
 See [nbviewer](https://nbviewer.jupyter.org/github/anmarphy/Deep-Learning-Pricing-Model/blob/master/Part_I.ipynb)
 
 
-Resources
+Useful links regarding maps
 https://nbviewer.jupyter.org/github/python-visualization/folium/blob/master/examples/Plugins.ipynb
 
 Zip codes lat and log
@@ -12,5 +12,5 @@ https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitu
 Maps
 https://github.com/felixDulys/Coursera_Capstone/blob/master/Data_Driven_Neighborhood_Finder.ipynb
 
-choromap
+choroplet map
 https://python-visualization.github.io/folium/quickstart.html
