@@ -1,5 +1,4 @@
-# Airbnb Pricing Model
+# Modelo de Pricing para la ciudad de Seattle.
 
-See [nbviewer](https://nbviewer.jupyter.org/github/anmarphy/Deep-Learning-Pricing-Model/blob/master/Part_I.ipynb)
 
 
