@@ -1,4 +1,4 @@
-# Modelo de Pricing para la ciudad de New York.
+# Modelo de Tarifación para Airbnb.
 
 
 
